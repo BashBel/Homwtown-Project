@@ -1,0 +1,130 @@
+body{
+  
+    font-family: "Playfair Display", serif;
+    font-weight: 400px;
+    text-shadow: 1px;
+    }
+  
+h1{
+    background-color: #495057;
+    margin: 5px;
+    padding:2px 4px 2px;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+    }
+    
+    p{
+    background-color: #495057;
+    margin: 5px;
+    padding:6px 8px 6px;
+    text-align: center;
+    width: 350px;
+    border-radius: 10px;
+   
+   
+}
+#header{
+    background-image: url("images/megacity.jpg");
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 130px;
+    margin: 20px;
+    color: white;
+
+}
+#About-Lagos-section{
+    background: #6c757d;
+    color: black;
+    margin: 40px;
+    padding: 20px 40px 20px 40px;
+    display: flex;
+    text-align: center;
+
+}
+.Algs-title{
+   text-align: left;
+   width: 300px;
+}   
+.Algs-dscr{
+    width: 90%;
+    text-align: left;
+    background: #f8f9fa;
+}
+#Lagos-views-section{
+ width: 50%; 
+ display: block;
+ flex-direction: column;
+ margin: auto;
+}
+.beach{
+  width: 600px; 
+  margin:10px;
+}
+.hist-sites{
+   width:600px ;
+   margin:10px;
+}
+.culture{
+   width:600px ;
+   margin:10px;
+}
+.local-market{
+   width:600px ;
+   margin:10px;
+   padding-bottom: 10px;
+}
+#Places-to-visit{
+    background-color: #6c757d;
+    color: black;
+    padding: 2px 0px 20px 30px;
+    font-size: 30px;
+    
+    }
+
+#footer{
+    background-color:#6c757d;
+    color: white;
+    width: 250px;
+    margin: 20px;
+    padding: 3px 1px 5px 1px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 40px;
+    
+}
+.btn{
+    color: black;
+    border-radius: 10px;
+    padding: 4px 10px 6px 10px;
+    margin: 4px;
+    
+    
+}
+.Enquiries{
+ color: white;
+    font-size: 20px;6
+    padding: 0px;
+    margin: 4px; 
+}
+.copyr{
+  color: #6c757d;
+    font-size: 20px;
+    padding: 0px;
+    margin: 4px;  
+    text-align: center;
+ }   
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
